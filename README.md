@@ -16,3 +16,6 @@ https://www.cs.bgu.ac.il/~ben-shahar/Publications/2012-Pomeranz_Shemesh_and_Ben_
 **Jigsaw Puzzle Solver using shape and color**
 Uses shape + color info at boundary for fitting, stil does not use completed picture 
 https://pdfs.semanticscholar.org/75b2/e0dd5e141b1f74100ffb379660f988e22b75.pdf?_ga=2.179986852.1001705749.1562359496-589338213.1562359496
+
+**Computer Vision System for Solving Jigsaw Puzzles**
+https://pdfs.semanticscholar.org/4391/27dc17d8be5493f6f8dc4f27fcecde02b3f9.pdf
