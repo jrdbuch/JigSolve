@@ -22,6 +22,9 @@ https://medium.com/cornell-tech/jigsolved-computer-vision-to-solve-jigsaw-puzzle
 Solve by Shape only, requires high res scans of each piece 
 https://github.com/kellinwood/PuzzleSolver
 
+solve by shape and color at edge boundaries
+https://github.com/Kawaboongawa/Zolver
+
 ### Papers
 **A Fully Automated greedy square jigsaw puzzle solver**
 Only concerned with shape
